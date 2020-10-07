@@ -1,2 +1,0 @@
-# HardPointKennels
-GitHub Pages
