@@ -1,4 +1,4 @@
 git add --all
 git commit -m "Published on 'date'"
-git push
+git push origin
 echo "Publish complete"
